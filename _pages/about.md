@@ -10,9 +10,9 @@ redirect_from:
 
 ## 💫About Me
 
-I am currently a second-year M.S.E. student at [GEAI Lab](https://www.embodiment.ai/) of [Tongji University](https://www.tongji.edu.cn/) and advised by Prof. Guang Chen. Before this, I obtained the bachelor’s degree in Vehicle Engineering at Tongji University.
+I am currently a first year PhD student at [IGL Lab](https://github.com/IGL-HKUST) at Hong Kong University of Science and Technology and advised by Prof. [Yuan Liu](https://liuyuan-pal.github.io). Before this, I obtained the bachelor and Master’s degree at Tongji University, [GEAI Lab](https://www.embodiment.ai/) of [Tongji University](https://www.tongji.edu.cn/) and advised by Prof. Guang Chen.
 
-My research centers on exploring the intersection of generative modeling and 3D vision, with a particular emphasis on problems such as 3D content generation and 3D-aware video generation. Looking further ahead, I am deeply interested in the broader potential of world models and generative models, both from theoretical perspectives and in terms of their practical applications.
+My research centers on exploring the intersection of generative modeling and 3D vision, with a particular emphasis on problems such as Unified 3D Generation and Reconstruction and 3D-aware video generation. Looking further ahead, I am deeply interested in the broader potential of world models and generative models, both from theoretical perspectives and in terms of their practical applications.
 &nbsp;
 
 
@@ -21,7 +21,7 @@ My research centers on exploring the intersection of generative modeling and 3D 
 **[2026/02]**  🎉 One paper accepted to **CVPR 2026**.   
 **[2026/01]**  🎉 One paper accepted to **ICLR 2026**.     
 **[2025/09]**  🎉 One paper accepted to **NeurIPS 2025**.   
-**[2025/05]**  Started an internship at DJI, machine learning group, Shenzhen, China.    
+**[2025/05]**  Started an internship at **DJI**, machine learning group, Shenzhen, China.    
 **[2024/09]**  🎉 One paper on pose-free reconstruction accepted to **NeurIPS 2024**.   
 **[2024/02]**  🎉 One paper on dynamic scene reconstruction accepted to **CVPR 2024**.     
 **[2023/10]**  🎉 One paper on point cloud registration accepted to **WACV 2024**.     
